@@ -3,7 +3,7 @@ Second iteration of Network based Application Development class project - This p
 
 How to run:
 
-*Make sure you have nodeJS installed*
+*Make sure you have nodeJS installed, these instructions are intended for VScode*
 
 1) Command to install dependencies: 
 
